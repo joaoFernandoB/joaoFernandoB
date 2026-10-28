@@ -5,7 +5,7 @@
 Me chamo João Fernando, tenho 25 anos e sou natural de Angra dos Reis, RJ.
 
 Venho fazendo cursos há mais de dois anos voltado para a área de *Desenvolvimento de Software* além 
-de, estar cursando Ciência da Computação. 
+de, graduando em análise e desenvolvimento de sistemas. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joãofernandosb) [![Email Badge](https://img.shields.io/badge/Gmail-cc0000.svg?logo=gmail&logoColor=white)](mailto:jf.fernandes.sb@gmail.com)
