@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Fernando, tenho 23 anos e sou natural de Angra dos Reis, RJ.
+Me chamo João Fernando, tenho 25 anos e sou natural de Angra dos Reis, RJ.
 
 Venho fazendo cursos há mais de dois anos voltado para a área de *Desenvolvimento de Software* além 
 de, estar cursando Ciência da Computação. 
