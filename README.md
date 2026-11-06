@@ -18,5 +18,5 @@ de, graduando em análise e desenvolvimento de sistemas.
 <br/>
 <br/>
 
-### 📊 Estatísticas
+###
 
